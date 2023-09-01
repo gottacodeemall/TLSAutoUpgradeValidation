@@ -7,7 +7,6 @@ namespace OLCLibrary
     {
         public static async Task MakeHttpCall()
         {
-            System.Net.ServicePointManager.SecurityProtocol = SecurityProtocolType.SystemDefault;
             var services = new ServiceCollection();
             services.AddHttpClient();
             var serviceProvider = services.BuildServiceProvider();
