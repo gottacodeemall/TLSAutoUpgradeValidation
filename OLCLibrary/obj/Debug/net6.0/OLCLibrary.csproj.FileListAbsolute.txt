@@ -1,0 +1,12 @@
+D:\TLS-POC\OLCLibrary\bin\Debug\net6.0\OLCLibrary.deps.json
+D:\TLS-POC\OLCLibrary\bin\Debug\net6.0\OLCLibrary.dll
+D:\TLS-POC\OLCLibrary\bin\Debug\net6.0\OLCLibrary.pdb
+D:\TLS-POC\OLCLibrary\obj\Debug\net6.0\OLCLibrary.csproj.AssemblyReference.cache
+D:\TLS-POC\OLCLibrary\obj\Debug\net6.0\OLCLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\TLS-POC\OLCLibrary\obj\Debug\net6.0\OLCLibrary.AssemblyInfoInputs.cache
+D:\TLS-POC\OLCLibrary\obj\Debug\net6.0\OLCLibrary.AssemblyInfo.cs
+D:\TLS-POC\OLCLibrary\obj\Debug\net6.0\OLCLibrary.csproj.CoreCompileInputs.cache
+D:\TLS-POC\OLCLibrary\obj\Debug\net6.0\OLCLibrary.dll
+D:\TLS-POC\OLCLibrary\obj\Debug\net6.0\refint\OLCLibrary.dll
+D:\TLS-POC\OLCLibrary\obj\Debug\net6.0\OLCLibrary.pdb
+D:\TLS-POC\OLCLibrary\obj\Debug\net6.0\ref\OLCLibrary.dll

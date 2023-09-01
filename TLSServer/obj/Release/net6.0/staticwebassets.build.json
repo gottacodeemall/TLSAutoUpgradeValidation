@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "O104Z1j98XNwSti4tVATh9xWj1vVhKckIydb0xu22mo=",
+  "Source": "TLSServer",
+  "BasePath": "_content/TLSServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
