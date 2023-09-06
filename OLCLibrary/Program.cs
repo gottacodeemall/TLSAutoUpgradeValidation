@@ -16,6 +16,7 @@ namespace OLCLibrary
                 Console.WriteLine(System.Net.ServicePointManager.SecurityProtocol);
                 // var responseMessage = await client.SendAsync(new HttpRequestMessage(HttpMethod.Get, "http://localhost:5263/WeatherForecast"));
                 var responseMessage = await client.SendAsync(new HttpRequestMessage(HttpMethod.Get, "https://localhost:7185/WeatherForecast"));
+                Console.WriteLine(responseMessage.StatusCode);
             }
         }
     }
